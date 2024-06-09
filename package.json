@@ -1,8 +1,9 @@
 {
   "name": "@rocketclimb/tw-utils",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Tailwind utils package for rocketclimb plugins",
   "main": "dist/index.js",
+  "private": false,
   "scripts": {
     "build": "tsc --build",
     "test": "jest ./src"
