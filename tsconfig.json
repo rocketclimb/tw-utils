@@ -3,7 +3,7 @@
     "target": "es2022",
     "module": "commonjs",
     "moduleResolution": "node",
-    "declaration": false,
+    "declaration": true,
     "strict": true,
     "incremental": true,
     "esModuleInterop": true,
