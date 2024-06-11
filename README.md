@@ -1,6 +1,6 @@
 # tw-utils
 
-![npm](https://img.shields.io/npm/v/tw-utils)
+![npm](https://img.shields.io/npm/v/@rocketclimb/tw-utils)
 ![License](https://img.shields.io/github/license/rocketclimb/tw-utils)
 ![Build](https://github.com/rocketclimb/tw-utils/actions/workflows/push.yml/badge.svg)
 
